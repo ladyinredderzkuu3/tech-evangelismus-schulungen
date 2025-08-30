@@ -10,4 +10,8 @@ Wir freuen uns über Beiträge! Hier sind einige Möglichkeiten, wie Sie helfen 
 
 Bitte beachten Sie unsere Code-Standards, bevor Sie Pull Requests einreichen. Halten Sie sich an unsere Formatierungs- und Stilrichtlinien, um die Wartbarkeit und Lesbarkeit des Codes zu gewährleisten.
 
+## Überprüfung von Pull Requests
+
+Bitte nehmen Sie sich die Zeit, die Pull Requests anderer sorgfältig zu überprüfen. Geben Sie konstruktives Feedback und denken Sie daran, dass Qualität wichtiger ist als Quantität.
+
 Vielen Dank für Ihr Interesse!
