@@ -1,0 +1,1 @@
+console.log('Willkommen bei Tech Evangelismus Schulungen!');
